@@ -6,3 +6,8 @@ js2745
 $YOUR_FAVORITE_LINUX_COMMAND
 mkdir
 mkdir
+## EUID
+js2745
+## Favorite Linux Command
+mkdir
+## EUID
